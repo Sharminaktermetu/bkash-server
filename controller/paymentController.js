@@ -8,7 +8,7 @@ class paymentController {
             "Content-Type": "application/json",
             Accept: "application/json",
             authorization: globals.get('id_token'),
-            'x-app-key': process.env.bkash_api_key,
+            'x-app-key': '5tunt4masn6pv2hnvte1sb5n3j',
         }
     }
 
